@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "931599776673",
+    "project_id": "wa-status-saver-f9a55",
+    "storage_bucket": "wa-status-saver-f9a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931599776673:android:089bb911257df3bed669e0",
+        "android_client_info": {
+          "package_name": "com.leoxtech.statussaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931599776673-5335vofs41g0q8v33gdk89bqe7nlmoh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5fOUqo_QO7-hwqnar6ZPJ1TIpaZ7mGi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931599776673-5335vofs41g0q8v33gdk89bqe7nlmoh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8049480871232781~4817462859"
+    }
+  ],
+  "configuration_version": "1"
+}
